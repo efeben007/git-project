@@ -3,7 +3,7 @@
 
 this is to test merge conflict for git and see how it is fixed
 
-
+adding something new
 
 
 this will display 
